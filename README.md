@@ -1,6 +1,6 @@
 Unofficial implementation of the [Res2Net](https://arxiv.org/abs/1904.01169) module from:
 
-    Gao, S.-H., Cheng, M.-M., Zhao, K., Zhang, X.-Y., Yang, M.-H., Torr, P,
+    Gao, S.H., Cheng, M.M., Zhao, K., Zhang, X.Y., Yang, M.H., Torr, P,
     Res2Net: A New Multi-scale Backbone Architecture,
     arXiv e-prints arXiv:1904.01169.
                                 
